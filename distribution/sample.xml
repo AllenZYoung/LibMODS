@@ -1,0 +1,38 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:titleInfo>
+        <mods:title>
+            A Stochastic Simulation for Evolution in a Changing Environment
+        </mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Bronson, Ryan</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text">creator</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:subject authority="local">
+        <mods:topic>Myofilament volume</mods:topic>
+    </mods:subject>
+    <mods:language>
+        <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+    </mods:language>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:genre authority="aat">posters</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="code" authority="marccountry">riu</mods:placeTerm>
+        </mods:place>
+        <mods:place>
+            <mods:placeTerm type="text">Providence, RI</mods:placeTerm>
+        </mods:place>
+        <mods:publisher>Brown University</mods:publisher>
+        <mods:dateCreated keyDate="yes" encoding="w3cdtf">2018</mods:dateCreated>
+    </mods:originInfo>
+    <mods:physicalDescription>
+        <mods:extent>1 poster</mods:extent>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+</mods:mods>
+
